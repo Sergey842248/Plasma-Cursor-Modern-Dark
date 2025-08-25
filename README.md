@@ -6,7 +6,7 @@ It's a round modern and intutive design for a nice look on KDE Plasma.
 1. Download the zip file from the releases section
 2. Navigate to ```bash
 home/[Your Username]/.icons``` (if the path doesn't exist, create it)
-4. Paste/Extract the folder from the downloaded zip file. 
+4. Paste/Extract the folder from the downloaded zip file into this path. 
 
 ### Based on:
 - https://github.com/ful1e5/Bibata_Cursor
